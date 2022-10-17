@@ -34,7 +34,7 @@
 				"python.linting.pylintPath": "/usr/local/py-utils/bin/pylint",
                 "python.testing.unittestEnabled": false,
                 "python.testing.pytestEnabled": true,
-                "workbench.startupEditor": "none"
+                "workbench.startupEditor": "newUntitledFile"
 			},
 			
 			// Add the IDs of extensions you want installed when the container is created.
